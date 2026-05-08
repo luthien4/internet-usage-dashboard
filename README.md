@@ -2,6 +2,8 @@
 
 Interactive Streamlit dashboard for exploring worldwide internet usage patterns from 2000 to 2023.
 
+[Live dashboard](https://internet-usage-dashboard-g8anbw2xknjbpb4jgvee69.streamlit.app/) | [GitHub repository](https://github.com/luthien4/internet-usage-dashboard)
+
 This project is part of my Data Analytics and Data Science portfolio. It focuses on data preparation, exploratory analysis, visualization, and communicating global trends through an interactive dashboard.
 
 ## Project Overview
@@ -68,7 +70,6 @@ streamlit run DataCamp_InternetUsage_app.py
 
 Portfolio-ready draft. The next improvements will be:
 
-- deploy the app online,
 - document the data source more precisely,
 - add a short project summary with key findings.
 
