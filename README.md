@@ -22,6 +22,16 @@ The dashboard helps answer questions such as:
 - Plotly
 - HTML/CSS for dashboard styling
 
+## Screenshots
+
+### Dashboard overview
+
+![Dashboard overview](assets/dashboard-InternetUsage-screenshot_1.png)
+
+### Country comparison and detailed analysis
+
+![Country comparison and detailed analysis](assets/dashboard-InternetUsage-screenshot_2.png)
+
 ## Repository Structure
 
 ```text
@@ -34,6 +44,9 @@ Internet_Usage_Project/
   style.css
   README.md
   requirements.txt
+  assets/
+    dashboard-InternetUsage-screenshot_1.png
+    dashboard-InternetUsage-screenshot_2.png
 ```
 
 ## How To Run The Dashboard
@@ -55,7 +68,6 @@ streamlit run DataCamp_InternetUsage_app.py
 
 Portfolio-ready draft. The next improvements will be:
 
-- add screenshots or a short demo GIF,
 - deploy the app online,
 - document the data source more precisely,
 - add a short project summary with key findings.
